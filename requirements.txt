@@ -1,0 +1,2 @@
+flask
+git+https://github.com/vaishu2006-30/master-library.git@main
